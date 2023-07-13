@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.4900ccb7.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.f0bc4078.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.262d52ac.js",
     "static/js/313.aebeb2d6.chunk.js": "/goit-react-hw-08-phonebook/static/js/313.aebeb2d6.chunk.js",
     "static/js/759.344cad4e.chunk.js": "/goit-react-hw-08-phonebook/static/js/759.344cad4e.chunk.js",
-    "static/js/734.95375f12.chunk.js": "/goit-react-hw-08-phonebook/static/js/734.95375f12.chunk.js",
+    "static/js/734.74113100.chunk.js": "/goit-react-hw-08-phonebook/static/js/734.74113100.chunk.js",
     "static/js/915.a0e960e6.chunk.js": "/goit-react-hw-08-phonebook/static/js/915.a0e960e6.chunk.js",
     "static/js/492.e31cde4f.chunk.js": "/goit-react-hw-08-phonebook/static/js/492.e31cde4f.chunk.js",
     "static/media/home.png": "/goit-react-hw-08-phonebook/static/media/home.2c71674f70441993cbc9.png",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.4900ccb7.css.map": "/goit-react-hw-08-phonebook/static/css/main.4900ccb7.css.map",
-    "main.f0bc4078.js.map": "/goit-react-hw-08-phonebook/static/js/main.f0bc4078.js.map",
+    "main.262d52ac.js.map": "/goit-react-hw-08-phonebook/static/js/main.262d52ac.js.map",
     "313.aebeb2d6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/313.aebeb2d6.chunk.js.map",
     "759.344cad4e.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/759.344cad4e.chunk.js.map",
-    "734.95375f12.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/734.95375f12.chunk.js.map",
+    "734.74113100.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/734.74113100.chunk.js.map",
     "915.a0e960e6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/915.a0e960e6.chunk.js.map",
     "492.e31cde4f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/492.e31cde4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4900ccb7.css",
-    "static/js/main.f0bc4078.js"
+    "static/js/main.262d52ac.js"
   ]
 }
