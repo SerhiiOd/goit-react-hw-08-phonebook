@@ -4,7 +4,7 @@ import { deleteContact } from 'redux/contacts/operations';
 
 import AccountBoxIcon from '@mui/icons-material/AccountBox';
 import DeleteForeverOutlinedIcon from '@mui/icons-material/DeleteForeverOutlined';
-import { Item, DeleteContact } from './Contact.styled';
+import { Item, DeleteContact } from './ContactItem.styled';
 
 export const Contact = ({ id, number, name }) => {
   const dispatch = useDispatch();

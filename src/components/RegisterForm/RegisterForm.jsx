@@ -148,6 +148,7 @@ export const RegisterForm = () => {
         <Button
           type="submit"
           fullWidth
+          color="inherit"
           variant="contained"
           sx={{ mt: 3, mb: 2 }}
         >

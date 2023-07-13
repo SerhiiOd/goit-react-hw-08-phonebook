@@ -96,6 +96,7 @@ export const ContactForm = ({ onSubmit }) => {
         <Button
           type="submit"
           fullWidth
+          color="inherit"
           variant="contained"
           sx={{ mt: 1, mb: 4 }}
         >
