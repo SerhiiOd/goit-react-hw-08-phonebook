@@ -87,7 +87,13 @@ export const LoginForm = () => {
             ),
           }}
         />
-        <Button type="submit" fullWidth variant="contained" sx={{ mt: 3 }}>
+        <Button
+          type="submit"
+          fullWidth
+          color="inherit"
+          variant="contained"
+          sx={{ mt: 3 }}
+        >
           Submit
         </Button>
       </Box>
